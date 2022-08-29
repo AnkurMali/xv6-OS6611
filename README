@@ -1,6 +1,12 @@
-NOTE: we have stopped maintaining the x86 version of xv6, and switched
-our efforts to the RISC-V version
+
+This is the public repo modified/designed for USF OS6611: Operating systems course
+
+Credits:- MIT OS team and other developer
+=========================================================================
+NOTE: MIT have stopped maintaining the x86 version of xv6, and switched
+efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)
+# People working on Mac might be interested in looking into above repo
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
